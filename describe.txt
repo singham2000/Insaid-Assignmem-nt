@@ -1,0 +1,7 @@
+1. I created a  simple navbar with some fixed attribute and color changing animation when ypostion of page is changed.
+ 
+2. Put a carousel Banner of cars as i choose a Car buyer website. i used jQuery carousel to make it responsive, it changes it size according to size.
+
+3.I used Cards to show some cars for user i used bootstrap for making it responsive, and bootstarp also helped mainting code quite small.
+
+4.Navbar collapsed button is made from bootstarp, it changes navbar for full-screen and small screen.

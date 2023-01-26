@@ -5,3 +5,16 @@
 3.I used Cards to show some cars for user i used bootstrap for making it responsive, and bootstarp also helped mainting code quite small.
 
 4.Navbar collapsed button is made from bootstarp, it changes navbar for full-screen and small screen.
+
+
+
+
+
+Technologies used: 
+1: HTML 5
+2: JavaScript
+3: Jquery
+4: Owl JS
+5: BootStrap
+6: CSS
+7: Font Awesome

@@ -1,8 +1,0 @@
-Technologies used: 
-1: HTML 5
-2: JavaScript
-3: Jquery
-4: Owl JS
-5: BootStrap
-6: CSS
-7: Font Awesome
